@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Matthew Reinhold",
+    "email": "mackreth.reinhold@gmil.com",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Currently employed at Stanford University. PhD Student at Stanford Unviersity",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Stanford",
       "countryCode": "US",
       "region": ""
     },
